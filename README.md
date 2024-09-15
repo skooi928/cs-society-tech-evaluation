@@ -1,0 +1,1 @@
+This is the technical evalution task for CS Society USM Year 1 recruitment. Candidates are required to clone their website @ https://merch.cssocietyusm.com. I have showcased my frontend knowledge of HTML and CSS at my first year as a Computer Science student.
